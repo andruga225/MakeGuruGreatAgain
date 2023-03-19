@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MakeGuruGreatAgain.Model.Domain">
+    <Position X="10.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.KnowledgeBase">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAQAAAAAA=</HashCode>
+      <FileName>Model\KnowledgeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.Rule">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Rule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.Statement">
+    <Position X="5.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>Model\Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.Variable">
+    <Position X="7.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAgAAAAAEAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.ValuedVariable">
+    <Position X="5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>Model\ValuedVariable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MakeGuruGreatAgain.Model.VariableType" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

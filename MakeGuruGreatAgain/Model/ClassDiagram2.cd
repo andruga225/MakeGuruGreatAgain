@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MakeGuruGreatAgain.Model.Domain">
+    <Position X="2.5" Y="3" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\Domain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.DomainValue">
+    <Position X="4.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model\DomainValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.ExpertSystem">
+    <Position X="6.5" Y="1.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIACAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ExpertSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.ExplanationComponent">
+    <Position X="10.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Model\ExplanationComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.KnowledgeBase">
+    <Position X="8" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAAA=</HashCode>
+      <FileName>Model\KnowledgeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.Rule">
+    <Position X="3" Y="4.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAAAAIIEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Rule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.Statement">
+    <Position X="10.75" Y="3.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>Model\Statement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.ValuedVariable">
+    <Position X="11" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>Model\ValuedVariable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.Variable">
+    <Position X="2.25" Y="3.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAgAAAAAEAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MakeGuruGreatAgain.Model.WorkingMemory">
+    <Position X="0.5" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Model\WorkingMemory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MakeGuruGreatAgain.Model.VariableType">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
